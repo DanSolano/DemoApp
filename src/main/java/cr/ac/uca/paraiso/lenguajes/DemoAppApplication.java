@@ -10,5 +10,8 @@ public class DemoAppApplication {
 		SpringApplication.run(DemoAppApplication.class, args);
                 
                 System.out.println("lalalalal");
+                
+                
+                System.out.println("Valida los datos de estudiante");
 	}
 }
